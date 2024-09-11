@@ -1,0 +1,10 @@
+# Contact Manager Java
+
+## Descrição
+Este é um sistema simples de gerenciamento de contatos desenvolvido em Java. O sistema permite adicionar, buscar, remover e listar contatos, utilizando uma lista encadeada para armazenar os dados.
+
+## Funcionalidades
+- Adicionar Contato
+- Buscar Contato
+- Remover Contato
+- Listar Todos os Contatos
